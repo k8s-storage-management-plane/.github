@@ -26,7 +26,7 @@ TBD CHANGE ME This project is a proof of concept Participant Management API buil
     * HTTP5/CSS3/cj3
     * Bootstrap
     * WebSockets xxx
-  * **storage-management-place**
+  * **storage-management-plane**
     * Node.js xxx
   * **storage-operator**
     * Longhorn xxx
